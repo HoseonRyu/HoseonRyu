@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @HoseonRyu
-- 👀 I’m interested in AI(DL,ML,SB) and BE.
-- 🌱 I’m currently learning at School of Computing in KAIST
-- 📫 Send an email to reach me : ghtjs5281@kaist.ac.kr
+## Hoseon Ryu
+- ### 👀  I’m interested in AI(DL,ML,SB) and BE.
+- ### 🌱  I’m currently an undergrate student in **[KAIST School of Computing](https://cs.kaist.ac.kr/, "KAIST SoC link")**
+- ### 📫  Send an email to reach me : ghtjs5281@kaist.ac.kr
+
 
 <!---
 HoseonRyu/HoseonRyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
