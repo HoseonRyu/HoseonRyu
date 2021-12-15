@@ -1,5 +1,5 @@
 ## Hoseon Ryu
-- ### 🌱  I’m currently an undergrate student in **[KAIST School of Computing](https://cs.kaist.ac.kr/ "KAIST SoC link")**
+- ### 🌱  I’m currently an undergraduate student in **[KAIST School of Computing](https://cs.kaist.ac.kr/ "KAIST SoC link")**
 - ### 👀  I’m interested in ...
 - ### 📫  Send an email to reach me : ghtjs5281@kaist.ac.kr
 
