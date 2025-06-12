@@ -1,1 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoseonRyu)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=Githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/rubyonrails-D30001?style=flat-square&logo=Rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
