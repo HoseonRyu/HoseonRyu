@@ -1,3 +1,26 @@
+# 👋 Hello, I’m Hoseon Ryu
+[![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjs5281@gmail.com)](mailto:ghtjs5281@gmail.com)
+[![Notion](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://longing-durian-2c8.notion.site/Hoseon-Ryu-97fc6aa58d6c44e9b04585010a0ad3ff)](https://longing-durian-2c8.notion.site/Hoseon-Ryu-97fc6aa58d6c44e9b04585010a0ad3ff)
+
+## 🧑‍💻 Infrastructure / DevOps Engineer
+- **Infrastructure as Code** with Terraform  
+- **GitOps** practitioner (ArgoCD)  
+- Experience with multiple cloud platforms (`AWS`, `NCP-Gov`)  
+- Built AWS workloads across global regions (🇰🇷 `ap-northeast-2`, 🇬🇧 `eu-west-2`)  
+- Back-end development background for deeper service understanding  
+
+## 📑 Work Experience
+### Team Monolith Inc. (Jun 2022 - )
+[![Notion](https://img.shields.io/badge/Codle-3f88ff?style=flat-square&logoColor=white&link=https://codle.io)](https://codle.io)
+- Back-End Engineer
+- Infrastructure Engineer
+
+## 🏫 Education
+| Institution | Degree / Period |
+|-------------|-----------------|
+| **KAIST** – School of Computing | B.S. in Computer Science, Mar 2015 – Aug 2021 |
+| **Korea Science Academy of KAIST** | High-school diploma, Feb 2012 – Feb 2015 |
+
 ## 🔍 Tech Stacks
 **Infrastructure**
 <!-- Infrastructure as Code & Orchestration -->
@@ -32,3 +55,6 @@
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
 <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+## ℹ️ Additional
+- **Military Service**: Republic of Korea Air Force, Aug 2018 – Jun 2020
