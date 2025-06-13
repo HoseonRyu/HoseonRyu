@@ -11,6 +11,7 @@
 - Built AWS workloads across global regions
   - 🇰🇷 Seoul `ap-northeast-2`
   - 🇬🇧 London `eu-west-2`
+- Managed continuous Kubernetes cluster version upgrades
 - Backend development background for deeper service understanding
 
 ## 📑 Work Experience
