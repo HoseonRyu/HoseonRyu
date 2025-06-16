@@ -17,7 +17,7 @@
 - 백엔드 개발 경험을 통한 MSA 및 서비스에 대한 깊은 이해
 
 ## 📑 경력
-### (주) 팀모노리스 - 2022.6 ~
+### (주) 팀모노리스 - 2021.12 ~
 [![Codle](https://img.shields.io/badge/Codle-3f88ff?style=flat-square&logoColor=white&link=https://codle.io)](https://codle.io)
 - 백엔드 엔지니어
 - 인프라 / DevOps 엔지니어

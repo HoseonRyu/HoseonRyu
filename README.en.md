@@ -15,7 +15,7 @@
 - Backend development background for deeper service understanding
 
 ## 📑 Work Experience
-### Team Monolith Inc. · Jun 2022 – Present
+### Team Monolith Inc. · Dec 2021 – Present
 [![Codle](https://img.shields.io/badge/Codle-3f88ff?style=flat-square&logoColor=white&link=https://codle.io)](https://codle.io)
 - Backend Engineer
 - Infrastructure Engineer
