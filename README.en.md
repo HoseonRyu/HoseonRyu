@@ -23,7 +23,7 @@
 ## 🏫 Education
 | Institution | Degree / Period |
 |-------------|-----------------|
-| **KAIST** – School of Computing | B.S. in Computer Science, Mar 2015 – Aug 2021 |
+| **KAIST** – School of Computing | B.S. in Computer Science, Mar 2015 – Aug 2022 |
 | **Korea Science Academy of KAIST** | Science High-school Diploma, Feb 2012 – Feb 2015 |
 
 ## 🔍 Tech Stacks
